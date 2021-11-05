@@ -4,7 +4,7 @@
 ## 一键安装&升级
 ```
 
-bash <(curl -Ls https://raw.githubusercontent.com/mxfade/v2Ray_ui/master/install.sh)
+bash <(curl -Ls https://ghproxy.com/https://raw.githubusercontent.com/Oct1a/v2Ray_ui/master/install.sh)
 
 ```
 # 功能介绍
@@ -16,7 +16,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mxfade/v2Ray_ui/master/install
  - 支持自定义 v2ray 配置模板
  - 支持 https 访问面板（需自备域名 + ssl 证书）
  - 更多高级配置项，详见面板
- 
+
 # 安装&升级
 
 ## 用户注意事项（必看）

@@ -11,7 +11,7 @@ V6_PROXY=""
 IP=`curl -sL -4 ip.sb`
 if [[ "$?" != "0" ]]; then
     IP=`curl -sL -6 ip.sb`
-    V6_PROXY="https://gh.hijk.art/"
+    V6_PROXY="https://ghproxy.com/"
 fi
 
 CONFIG_FILE="/etc/v2ray/config.json"
